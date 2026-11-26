@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow",
+  "description": "Authenticated full-stack task management system built for the AUREX Month 2 Full-Stack Engineering Internship.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
